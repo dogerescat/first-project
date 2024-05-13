@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FF4C0362-A2F8-27CD-3205-0F4E3FDBEED5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Block.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Player.cs" />
+      <File FileName="Assets/Scenes/Ball.cs" />
+      <File FileName="Assets/Scenes/Block.cs" Line="7" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5a610176-01e4-4d02-8f83-5d606cabe7e8" />
+</Properties>
